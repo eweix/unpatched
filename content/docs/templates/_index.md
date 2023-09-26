@@ -6,9 +6,9 @@ Ripped directly from delightful [GLOG](https://goblinpunch.blogspot.com/2016/05/
 
 ## Starting templates (curated)
 Roll 1d20 on the following table:
-1. asdf
-2. asdf
-3. asdf
+1. 
+2. 
+3. 
 
 ## All templates
 
