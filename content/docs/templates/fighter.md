@@ -1,12 +1,16 @@
 ---
-title: WTF Templates
+title: Fighter
+weight: 3
 ---
+# Fighter
 
-# Wizard Templates
-
-
-# Thief Templates
+## Fighter A
 
 
-# Fighter Templates
+## Fighter B
 
+
+## Fighter C
+
+
+## Fighter D
