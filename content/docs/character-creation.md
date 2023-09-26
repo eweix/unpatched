@@ -13,7 +13,7 @@ title: Character Creation
 1. Paper + pencil + 2d6.
 2. Roll 2d6 each for STR, DEX, CHA. STR is power and toughness, DEX is quickness and precision, and CHA is charm/luck. 
 3. Characters start with d6 Hit Protection (HP)
-4. Choose a starting [template]({{.Site.BaseURL}}/docs/templates)
+4. Choose a starting [template](/docs/templates)
 
 ### Other stuff is optional
 - Roll on trinket tables (p. 160 of D&D 5e player's handbook)
@@ -22,6 +22,6 @@ title: Character Creation
 - Any backstory whatsoever
 
 ## 2. Advancement and Experience
-- [Templates]({{.Site.BaseURL}}/docs/templates). Characters gain a new template after each session (up to 4 maximum), or may replace a template.
+- [Templates](/docs/templates). Characters gain a new template after each session (up to 4 maximum), or may replace a template.
 - Treasure. Whether it's gold, relics, or pretty paintings, loot is a means of progression.
 - Stories. Write down a single notable thing about your character from each session. Slowly accumulate a whole picture of who they are through their actions.
