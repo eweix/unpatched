@@ -47,4 +47,4 @@ If a stat reaches zero, you die.
 
 HP recovers after a quick breather, stats require extended rest and care.
 
-See also: [combat](/docs/mechanics/hazards/#31-combat).
+See also: [combat]({{.Site.BaseURL}}/docs/mechanics/hazards/#31-combat).
