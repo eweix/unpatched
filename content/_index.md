@@ -6,8 +6,8 @@ This is the home page for UNPATCHED, a tabletop game I'm throwing together on th
 It is in perpetual revisions, living only long enough to be something fun to do with friends.
 
 # Start Here
-- A good place to start is by looking at the [core mechanics](/docs/core-mechanics/). It'll get you all of the things you need to know. Not everything (never everything), since many things are best made up on the fly.
-- Also check out [character creation](/docs/character-creation/). Make up someone/something to play and go from there.
+- A good place to start is by looking at the [core mechanics](/rules/dice/). It'll get you all of the things you need to know. Not everything (never everything), since many things are best made up on the fly.
+- Also check out [character creation](/character-creation/). Make up someone/something to play and go from there.
 
 # Inspiration
 UNPATCHED draws on the [Gremlin Game Designer's Creed](https://www.tumblr.com/indierpgnewsletter/726538296789991424/okay-im-going-to-think-outloud-about-this) ([also explained in The Indie RPG Newsletter](https://ttrpg.substack.com/p/159-gremlin-creed)), which calls for things to be fun and weird above all else.
