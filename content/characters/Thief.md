@@ -1,7 +1,13 @@
 ---
-title: Sneak
+title: Thief
+summary: "You're adept at skullduggery. Light-fingered, so to speak. A downright scoundrel. Start with *Climbing* (d8), *Stealth* (d8). Take 1 feat, dark clothing, a knife, and ₡1."
+bookSectionCollapse: True
+bookToC: false
 ---
+# Thief
 You're adept at skullduggery. Light-fingered, so to speak. A downright scoundrel. Look, you're sneaky, okay? Start with *Climbing* (d8), *Stealth* (d8). Take 1 feat, dark clothing, a knife, and ₡1.
+
+## Feats
 - *Backstabbing*: Silently incapacitate a foe while unseen. If risk is unavoidable, roll an extra d12.
 - *Blending In*: Be unseen in crowds, darkness, and bad weather.
 - *Intrusion*: When bypassing locks or traps, treat *disasters* as *setbacks*, and *setbacks* as *success*.

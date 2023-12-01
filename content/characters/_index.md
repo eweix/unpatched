@@ -1,5 +1,7 @@
 ---
 title: Characters
+weight: 2
+bookCollapseSection: true
 ---
 ## Character Creation
 Choose a specialty and an origin. Or talk to the GM about making one up.
@@ -7,12 +9,17 @@ Choose a specialty and an origin. Or talk to the GM about making one up.
 Come up with a name. Then…
 
 ### 1. Choose a Specialization
-Choose a Specialization. Take the skills and gear listed.
+Choose a Specialization. Take the skills, feats, and gear listed.
+
+{{< section-list summary >}}
+
+<!-- 
 - Face: Skilled in Reading People (d8), Deception (d8). Take an extensive disguise wardrobe.
 - Muscle: Skilled in Intimidation (d8) and either Hand-to-hand (d8) or Shooting (d8). Take a sword, firearm, or cyber-arm.
 - Sneak: Skilled in Climbing (d8), Stealth (d8). Take climbing gear and night vision goggles.
 - Medic: Skilled in Medicine (d8), Electronics (d8). Take a medical kit and surgery tools (bulky).
 - Tech: Skilled in Hacking (d8), Electronics (d8). Take repair tools and a custom computer (bulky).
+-->
 
 ### 2. Create an Origin
 Either increase two skills (d6 → d8 → d10 → d12) *or* gain two characteristics marking your origin.

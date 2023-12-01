@@ -1,7 +1,7 @@
 ---
 aliases: rules
 title: Rules
-weight: 0
+weight: 1
 ---
 ## Play
 Players describe what their characters do. The GM advises when their action is impossible, demands a cost or extra steps, or presents a risk. Players can revise plans before committing so as to change goal/stakes. Only roll to avoid risk.

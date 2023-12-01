@@ -1,7 +1,13 @@
 ---
-title:
+title: Fighter
+summary: "Exactly what it says on the tin. You're good at fighting. Choose a *Weapon* (d8), *Strength* (d8), 1 feat, and some plain clothing."
+bookSectionCollapse: True
+bookToC: false
 ---
-It's anyone's guess what you're good at. Choose a *Weapon* at (d8) *Strength* (d8), 1 talent, and some plain clothing.
+# Fighter
+Exactly what it says on the tin. You're good at fighting. Choose a *Weapon* (d8), *Strength* (d8), 1 feat, and some plain clothing.
+
+## Feats
 - *One More*: When you incapacitate a foe up close, strike another in reach just as hard.
 - *Endurance*: Carry two *bulky* items comfortably.
 - *Martial Arts*: Follow any 3+ hand-to-hand roll with a grab, disarm, throw, trip, or the like.

@@ -1,0 +1,9 @@
+<ul>
+    {{ range .Page.Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ partial "docs/title" . }}</a>.
+        {{ if (in $.Params "summary") -}}{{ default .Summary .Description }}
+      </li>
+      {{ end -}}
+    {{ end }}
+    </ul>
