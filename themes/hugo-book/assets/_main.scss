@@ -282,6 +282,7 @@ body[dir="rtl"] .book-menu {
 .book-page,
 .book-header aside,
 .markdown {
+  max-width: $content-max-width;
   transition: 0.2s ease-in-out;
   transition-property: transform, margin, opacity, visibility;
   will-change: transform, margin, opacity;

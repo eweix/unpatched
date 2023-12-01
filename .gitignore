@@ -1,3 +1,4 @@
 # ignore obsidian files
 content/.obsidian/**
 content/.obsidian/*
+.DS_Store

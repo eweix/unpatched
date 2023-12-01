@@ -1,19 +1,16 @@
 ---
 title: Home
+BookToC: false
 ---
-# Welcome
-This is the home page for UNPATCHED, a tabletop game I'm throwing together on the fly.
-It is in perpetual revisions, living only long enough to be something fun to do with friends.
+## Start Here
+1. Take a quick look at the [rules](/rules).
+2. Then make a [character](/characters).
+3. ???
+4. PROFIT
 
-# Start Here
-- A good place to start is by looking at the [core mechanics](/rules/dice/). It'll get you all of the things you need to know. Not everything (never everything), since many things are best made up on the fly.
-- Also check out [character creation](/character-creation/). Make up someone/something to play and go from there.
-
-# Inspiration
-UNPATCHED draws on the [Gremlin Game Designer's Creed](https://www.tumblr.com/indierpgnewsletter/726538296789991424/okay-im-going-to-think-outloud-about-this) ([also explained in The Indie RPG Newsletter](https://ttrpg.substack.com/p/159-gremlin-creed)), which calls for things to be fun and weird above all else.
-It is, at its core, an extended GLOG hack.
-
-UNPATCHED draws from:
+## Inspiration
+- [The Gremlin Game Designer's Creed](https://www.tumblr.com/indierpgnewsletter/726538296789991424/okay-im-going-to-think-outloud-about-this)
+- [24XX](https://jasontocci.itch.io/24xx)
 - [BASTIONLAND](https://www.bastionland.com/)
 - [MOTHERSHIP](https://www.tuesdayknightgames.com/mothership)
 - [The Ultraviolet Grasslands and SEACAT](https://www.exaltedfuneral.com/products/uvg-2e?_pos=5&_sid=e3c61a4e7&_ss=r)
