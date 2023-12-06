@@ -1,4 +1,4 @@
-baseURL = 'http://eweix.github.io/unpatched/'
+baseURL = 'https://eweix.github.io/unpatched/'
 languageCode = 'en-us'
 title = 'unpatched'
 theme = 'hugo-book'

@@ -3,8 +3,6 @@ aliases:
 tag: NPC
 ---
 
-**Fixation**:
-
-**Motive**:
-
-**Attitude toward PCs**:
+- **Fixation**:
+- **Motive**:
+- **Attitude toward PCs**:

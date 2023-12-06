@@ -3,8 +3,8 @@ title: Home
 BookToC: false
 ---
 ## Start Here
-1. Take a quick look at the [rules](/rules).
-2. Then make a [character](/characters).
+1. Take a quick look at the [rules](/unpatched/rules).
+2. Then make a [character](/unpatched/characters).
 3. ???
 4. PROFIT
 
