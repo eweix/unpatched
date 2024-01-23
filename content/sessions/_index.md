@@ -1,4 +1,3 @@
 ---
-bookHidden: true
+title: Sessions
 ---
-List of sessions goes here.

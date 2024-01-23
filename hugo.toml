@@ -1,7 +1,30 @@
 baseURL = 'https://eweix.github.io/unpatched/'
 languageCode = 'en-us'
 title = 'unpatched'
-theme = 'hugo-book'
-
-bookTheme = 'auto'
 ignoreFiles = ['_templates/', 'notes/', 'drafts/', 'hidden/']
+
+[params.author]
+    name = 'Elliott Weix'
+
+
+[menus]
+[[menus.main]]
+    name = 'Rules'
+    pageref = '/rules'
+    weight = 10
+[[menus.main]]
+    name = 'Characters'
+    pageref = '/characters'
+    weight = 15
+[[menus.main]]
+    name = 'Sessions'
+    pageref = '/sessions'
+    weight = 20
+[[menus.main]]
+    name = 'Log'
+    pageref = '/log'
+    weight = 30
+
+[permalinks]
+    [permalinks.page]
+        'sessions' = '/sessions/:year-:month-:day'

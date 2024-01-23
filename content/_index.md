@@ -3,10 +3,16 @@ title: Home
 BookToC: false
 ---
 ## Start Here
-1. Take a quick look at the [rules](/unpatched/rules).
-2. Then make a [character](/unpatched/characters).
+1. Take a quick look at the [[rules]].
+2. Then make a [[characters|character]].
 3. ???
 4. PROFIT
+
+## Pages
+- [[rules|Rules]]
+- [[characters|Character Creation]]
+  - [[magic|Magic]]
+- [[log|Session Log]]
 
 ## Inspiration
 - [The Gremlin Game Designer's Creed](https://www.tumblr.com/indierpgnewsletter/726538296789991424/okay-im-going-to-think-outloud-about-this)

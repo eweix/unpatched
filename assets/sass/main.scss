@@ -1,0 +1,117 @@
+// style text
+$font: "Palatino", "Georgia", serif;
+$font-size: 1.1rem;
+$sans: "Avenir", "Helvetica", system-ui, sans-serif;
+$text: #0d0d0d;
+
+// set width for page
+$page-width: 45rem;
+
+// layout
+html {
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+main {
+	display: flex;
+	justify-content: center;
+	position: relative;
+	margin: 2rem auto;
+	margin-top: 0rem;
+	padding: 1rem;
+}
+
+body {
+	font-family: $font;
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	line-height:1.5;
+	font-size: $font-size;
+}
+
+section.page {
+	width: $page-width;
+}
+
+header {
+	position: relative;
+	font-size: calc(#{$font-size} + 0.2rem);
+}
+
+footer {
+	position: relative;
+	bottom: 0;
+	margin: 1rem auto 0 auto;
+}
+
+article {
+	margin: 2rem 0;
+}
+
+// style section lists
+.list {
+	display: grid;
+	gap: 8px;
+	grid-template-columns: 1fr min-content;
+}
+
+.list div {
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.list a {
+	text-decoration: none;
+	color: $text;
+}
+
+a.active {
+	text-decoration: bold;
+}
+
+// set text decorations
+blockquote {
+	font-style: italic;
+	padding-left: 1rem;
+}
+
+a {
+	text-decoration-skip-ink: auto;
+	text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: $sans;
+}
+
+h1 a,h2 a,h3 a,h4 a,h5 a,h6 a {
+	text-decoration: none; // remove heading underline
+}
+
+header a {
+	text-decoration: none; // remove underline in nav
+	color: $text; // uncolor links
+}
+
+// change menu on small screens
+@media screen and (max-width: 45rem ) {
+
+	.posts {
+		grid-template-columns: 1fr;
+		grid-row-gap: 0px;
+
+		div {
+			white-space: normal;
+		}
+
+		div.last {
+				margin-bottom: 1.5rem;
+			}
+
+	}
+
+}

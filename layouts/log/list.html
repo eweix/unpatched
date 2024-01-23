@@ -1,0 +1,11 @@
+{{ define "main" }}
+<article>
+	<h1>{{ .Title }}</h1>
+	{{/* {{ .Content }} */}}
+	{{ range .Pages }}
+	<h2 style="font-size: 1.3rem;">{{ .Params.version }} | <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+	{{ .Date.Format "2006-01-02" }}
+	{{ partial "textprocessing.html" . }}
+	{{ end }}
+</article>
+{{ end }}

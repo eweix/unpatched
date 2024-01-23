@@ -1,0 +1,11 @@
+<header>
+	<nav>
+		<a href="{{ .Site.BaseURL }}">Home</a>
+		{{ $context := .Page.Section }}
+		{{ with .Site.Menus.main }}
+			{{ range . }}
+				| <a href="{{ .URL | relURL }}">{{ .Name }}</a>
+			{{ end }}
+		{{ end }}
+	</nav>
+</header>
